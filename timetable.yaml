@@ -1,0 +1,36 @@
+courses:
+  - name: Matematik 2
+    day: monday
+    start_time: "09:00"
+    end_time: "11:50"
+    lesson_url: "https://online.yildiz.edu.tr/?transaction=LMS.EDU.LessonProgram.ViewLessonProgramAsStudent/120566/0"
+
+  - name: Türkçe 2
+    day: monday
+    start_time: "13:00"
+    end_time: "14:50"
+    lesson_url: "https://online.yildiz.edu.tr/?transaction=LMS.EDU.LessonProgram.ViewLessonProgramAsStudent/121109/0"
+
+  - name: Atatürk İlke ve İnkılap Tarihi 2
+    day: monday
+    start_time: "15:00"
+    end_time: "16:50"
+    lesson_url: "https://online.yildiz.edu.tr/?transaction=LMS.EDU.LessonProgram.ViewLessonProgramAsStudent/117599/0"
+
+  - name: Fizik 2 (Salı)
+    day: tuesday
+    start_time: "13:00"
+    end_time: "15:50"
+    lesson_url: "https://online.yildiz.edu.tr/?transaction=LMS.EDU.LessonProgram.ViewLessonProgramAsStudent/120507/0"
+
+  - name: Fizik 2 (Cuma)
+    day: friday
+    start_time: "14:00"
+    end_time: "15:50"
+    lesson_url: "https://online.yildiz.edu.tr/?transaction=LMS.EDU.LessonProgram.ViewLessonProgramAsStudent/120507/0"
+
+  - name: İş Sağlığı ve Güvenliği 2
+    day: friday
+    start_time: "16:30"
+    end_time: "18:20"
+    lesson_url: "https://online.yildiz.edu.tr/?transaction=LMS.EDU.LessonProgram.ViewLessonProgramAsStudent/120737/0"
